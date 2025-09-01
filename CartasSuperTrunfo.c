@@ -23,7 +23,7 @@ int main()
     float areaemkm², pib;
     char estado, codigodacarta[20], nomedacidade[50], carta;
 
-    printf("digite a carta: \n");
+    printf("digite a carta 2: \n");
     scanf(" %c", &carta);   
 
     printf("digite o estado: \n");
